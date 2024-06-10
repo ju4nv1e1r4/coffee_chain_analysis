@@ -10,12 +10,12 @@ Este projeto tem como finalidade analisar os números de uma rede de cafeterias.
 
 Análise detalhada das vendas realizadas pela rede de cafeterias, incluindo:
 
-- Volume de vendas mensais e anuais.
+- Volume de vendas trimestrais e anuais.
 - Comparação de vendas entre diferentes lojas.
 - Identificação de tendências sazonais.
 - Análise de produtos mais vendidos.
 
-### Profit (Lucro)
+### Lucro
 
 Estudo do lucro gerado pela rede, considerando:
 
@@ -24,7 +24,7 @@ Estudo do lucro gerado pela rede, considerando:
 - Comparação de lucro entre diferentes períodos e lojas.
 - Impacto das campanhas promocionais no lucro.
 
-### Profit Margin (Margem de Lucro)
+### Margem de Lucro
 
 Cálculo e análise da margem de lucro, que é a relação entre lucro e receita, com foco em:
 
@@ -46,19 +46,14 @@ Avaliação dos custos envolvidos na produção dos itens vendidos, abordando:
 
 Análise do retorno sobre os investimentos em publicidade, incluindo:
 
-- Cálculo do ROAS para diferentes campanhas publicitárias.
-- Identificação das campanhas mais eficazes.
 - Estratégias para otimizar os gastos com anúncios.
-- Comparação de ROAS entre diferentes canais de marketing.
 
 ### SSS (Vendas nas Mesmas Lojas)
 
 Estudo das vendas nas mesmas lojas (SSS), uma métrica crucial para avaliar o desempenho da rede, considerando:
 
 - Crescimento das vendas nas mesmas lojas em relação ao ano anterior.
-- Fatores que influenciam o SSS.
 - Comparação de SSS entre diferentes regiões e lojas.
-- Impacto de novas iniciativas e reformas no SSS.
 
 ## Como Contribuir
 
@@ -70,9 +65,6 @@ Se você deseja contribuir para este projeto, siga os passos abaixo:
 4. Envie suas alterações para a branch (`git push origin feature/nome-da-feature`).
 5. Abra um Pull Request.
 
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais informações.
 
 ---
 
