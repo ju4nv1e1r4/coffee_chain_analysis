@@ -1,5 +1,8 @@
 # Coffee Chain Analysis
 
+![13](https://github.com/ju4nv1e1r4/coffee_chain_analysis/assets/161749246/610a11e9-2763-4d42-8c9c-2c8d01efa4b7)
+
+
 ## Sobre o Projeto
 
 Este projeto tem como finalidade analisar os números de uma rede de cafeterias. O objetivo é fornecer insights valiosos sobre as operações da rede, com foco em vendas, lucros, margem de lucro, custo dos produtos vendidos (COGS), retorno sobre gastos com anúncios (ROAS) e vendas nas mesmas lojas (SSS).
